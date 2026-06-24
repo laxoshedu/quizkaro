@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
 
+# Dynamic Sitemap from Apps Script
+Sitemap: https://script.google.com/macros/s/AKfycbwOUNYl8bwGj7xKiZmteJu02qRuMIP-I9AUcaxBDV0bVDJJJ8V-rad8GsAgBenH5OD5rQ/exec?action=sitemap
+
+# Manual Sitemap on GitHub
 Sitemap: https://laxoshedu.github.io/quizkaro/sitemap.xml
